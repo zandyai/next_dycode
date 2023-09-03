@@ -46,7 +46,7 @@ Want to run this project locally? Follow these simple steps:
 4. Start the development server:
    
    ```bash
-   npm run devs
+   npm run dev
    
 6. Open your browser and visit http://localhost:3000 to see Next Dycode in action!
 
