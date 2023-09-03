@@ -34,9 +34,21 @@ Want to run this project locally? Follow these simple steps:
    git clone https://github.com/your-username/next-dycode.git
 
 2. Navigate to the project folder:
+   
+     ```bash
+   cd next-dycode
+     
 3. Install the dependencies:
+   
+   ```bash
+   npm install
+     
 4. Start the development server:
-5. Open your browser and visit http://localhost:3000 to see Next Dycode in action!
+   
+   ```bash
+   npm run devs
+   
+6. Open your browser and visit http://localhost:3000 to see Next Dycode in action!
 
 ## Usage
 Feel free to use this project as a template for your own portfolio or modify it to suit your needs. You can replace the content, add your projects, and customize the styling to make it uniquely yours. Don't forget to showcase your personality and skills while you're at it!
